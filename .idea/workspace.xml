@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc354ab1-eda2-4331-a8cb-909841b0882e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gKBN3PeBMFliK5akYxOZ2KeaHC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc354ab1-eda2-4331-a8cb-909841b0882e" name="Default Changelist" comment="" />
+      <created>1597853359339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597853359339</updated>
+      <workItem from="1597853360391" duration="3052000" />
+      <workItem from="1598024720878" duration="4729000" />
+      <workItem from="1598046379268" duration="65000" />
+      <workItem from="1598210109486" duration="4424000" />
+      <workItem from="1598457610896" duration="2371000" />
+      <workItem from="1598561901968" duration="599000" />
+      <workItem from="1598706295713" duration="28000" />
+      <workItem from="1598706332872" duration="3000" />
+      <workItem from="1598960446111" duration="972000" />
+      <workItem from="1599068657382" duration="3696000" />
+      <workItem from="1599329646275" duration="600000" />
+      <workItem from="1599474587040" duration="1209000" />
+      <workItem from="1599738845094" duration="3000" />
+      <workItem from="1599922330851" duration="600000" />
+      <workItem from="1600114583956" duration="3788000" />
+      <workItem from="1600687546278" duration="587000" />
+      <workItem from="1600711543420" duration="3744000" />
+      <workItem from="1600896937208" duration="2107000" />
+      <workItem from="1600899060730" duration="915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600898027242">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600898027242" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1600687721309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600687721309" />
+    <state x="520" y="238" key="Github.ShareDialog" timestamp="1600687832874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1600687832874" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1600899979527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600899979527" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600898059478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600898059478" />
+  </component>
+</project>
